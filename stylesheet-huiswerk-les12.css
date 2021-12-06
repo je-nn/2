@@ -1,0 +1,192 @@
+/*styles 12*/
+body{
+  width:900px;
+  background-color:DarkSlateGrey;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-family:sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+}
+h3{
+  font-family:sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+header{
+  width:800px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:silver;
+}
+#inhoud{
+  width:800px;
+  min-height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:black;
+}
+footer{
+  width:800px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:mistyrose;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:100px;
+}
+#cel1-1{
+  color: #ffff00;
+  background-color: #ffff00;
+  width:100px;
+  height: 100px;
+}
+#cel1-2{
+  background-color: #fc0;
+  width:100px;
+  height: 100px;
+}
+#cel1-3{
+  width:100px;
+  height: 100px;
+  color: #f90;
+  background-color: #f90;
+}
+#cel1-4{
+  width:100px;
+  height: 100px;
+  background-color: #f60 ;
+}
+#cel1-1:hover{
+  color: #ffff00;
+  background-color: #000;
+}
+#cel1-2:hover{
+  background-color: #fff;
+  background-image: url(afbeeldingen/xmas1-100.png);
+  background-repeat: no-repeat;
+}
+#cel1-3:hover{
+  color: #f90;
+  background-color: #000;
+}
+#cel1-4:hover{
+  background-color: #fff;
+  background-image: url(afbeeldingen/xmas3-100.png);
+  background-repeat: no-repeat;
+}
+#cel2-1{
+  width:100px;
+  height: 100px;
+  color: #f30 ;
+  background-color: #f30 ;
+}
+#cel2-2{
+  width:100px;
+  height: 100px;
+  background-color: #f00  ;
+}
+#cel2-3{
+  width:100px;
+  height: 100px;
+  color: #cf0  ;
+  background-color: #cf0  ;
+}
+#cel2-4{
+  width:100px;
+  height: 100px;
+  background-color: #cc0  ;
+}
+#cel2-1:hover{
+  color: #f30 ;
+  background-color: #fff;
+}
+#cel2-2:hover{
+  background-color: #000;
+  background-image: url(afbeeldingen/xmas2-100.png);
+  background-repeat: no-repeat;
+}
+#cel2-3:hover{
+  color: #cf0  ;
+  background-color: #fff;
+}
+#cel2-4:hover{
+  background-color: #000;
+  background-image: url(afbeeldingen/xmas4-100.png);
+  background-repeat: no-repeat;
+}
+#cel3-1{
+  width:100px;
+  height: 100px;
+  color: #c90  ;
+  background-color: #c90  ;
+}
+#cel3-2{
+  background-color: #c60  ;
+}
+#cel3-3{
+  color: #c30  ;
+  background-color: #c30  ;
+}
+#cel3-4{
+  background-color: #c00  ;
+}
+#cel3-1:hover{
+  color: #c90  ;
+  background-color: #000;
+}
+#cel3-2:hover{
+  background-color: #fff;
+  background-image: url(afbeeldingen/xmas7-100.png);
+  background-repeat: no-repeat;
+}
+#cel3-3:hover{
+  color: #c30  ;
+  background-color: #000;
+}
+#cel3-4:hover{
+  background-color: #fff;
+  background-image: url(afbeeldingen/xmas5-100.png);
+  background-repeat: no-repeat;
+}
+#cel4-1{
+  width:100px;
+  height: 100px;
+  color: #9f0  ;
+  background-color: #9f0  ;
+}
+#cel4-2{
+  background-color: #9c0  ;
+}
+#cel4-3{
+  color: #990  ;
+  background-color: #990  ;
+}
+#cel4-4{
+  background-color: #960  ;
+}
+#cel4-1:hover{
+  color: #9f0  ;
+  background-color: #fff;
+}
+#cel4-2:hover{
+  background-color: #000;
+  background-image: url(afbeeldingen/xmas6-100.png);
+  background-repeat: no-repeat;
+}
+#cel4-3:hover{
+  color: #990  ;
+  background-color: #fff;
+}
+#cel4-4:hover{
+  background-color: #000;
+  background-image: url(afbeeldingen/xmas8-100.png);
+  background-repeat: no-repeat;
+}
